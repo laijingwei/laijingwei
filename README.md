@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**laijingwei1993/laijingwei1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,6 +10,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+#### My top repositories
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=laijingwei1993)](https://github.com/anuraghazra/github-readme-stats)
+
+#### My top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laijingwei1993)](https://github.com/anuraghazra/github-readme-stats)
