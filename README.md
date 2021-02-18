@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, 👋 I'm laijw! 😎</h2>
 
-<h4 align="center">I am an front-end developer, also make things with go, python, php.</h4>
+<h4 align="center">I am an front-end developer, also make things with python, php.</h4>
 
 <br>
 
@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=laijingwei&count_private=true&show_icons=true&icon_color=222&title_color=0366d6&text_color=586069&bg_color=fff&hide=issues&hide_border=true&include_all_commits=true" />
 </a>
 
-#### Platform&Tools
+#### Platform & Tools
 
 [![](https://img.shields.io/badge/OS-CentOS-33aadd?style=flat-square&logo=centos&logoColor=ffffff)](https://www.centos.org/)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
