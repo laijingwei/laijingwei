@@ -1,8 +1,6 @@
-<h2 align="center">Hi there, 👋 I'm laijw! 😎</h2>
+<h2 align="center">Hi there, 👋 I'm Jimway! 😎</h2>
 
 <h4 align="center">I am an front-end developer, also make things with python, php.</h4>
-
-<br>
 
 ---
 
