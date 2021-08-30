@@ -6,9 +6,9 @@
 
 ## Platform
 
-My mainly develop platform is Mac OS Catalina, my server is running CentOS, and I play games on Windows 10.
+My mainly develop platform is Mac OS Catalina, my server is running CentOS, and I play games on Windows 10 😎.
 
-> My computer is DIY my self, which installed hakintonish Mac OS and Windows 10, Following is the hardware details.
+> My computer is DIY by myself, which installed Hackintosh and Windows 10, following is the hardware details.
 
 | Category      | Name                |
 | ------------- | ------------------- |
