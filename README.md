@@ -21,11 +21,6 @@ My mainly develop platform is Mac OS Catalina, my server is running CentOS, and 
 ![](https://img.shields.io/badge/Mac%20OS-Catalina-2376bc?style=flat-square&logo=apple&logoColor=ffffff)
 ![](https://img.shields.io/badge/OS-CentOS-33aadd?style=flat-square&logo=centos&logoColor=ffffff)
 ![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
-
----
-
-## Editors
-
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![](https://img.shields.io/badge/IDE-Vim-019733?style=flat-square&logo=Vim&logoColor=ffffff)
 ![](https://img.shields.io/badge/IDE-Webstorm-009BEF?style=flat-square&logo=webstorm&logoColor=ffffff)
@@ -43,21 +38,18 @@ My mainly develop platform is Mac OS Catalina, my server is running CentOS, and 
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff)
 ![](https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=ffffff)
 ![](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=ffffff)
-
 ![](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=ffffff)
 ![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat-square&logo=Alpine.js&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=Apollo%20GraphQL&logoColor=ffffff)
-
 ![](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=Ant%20Design&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=Tailwind%20CSS&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Gridsome-00A672?style=flat-square&logo=Gridsome&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=Quasar&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=ffffff)
-
 ![](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=ffffff)
@@ -73,20 +65,13 @@ My mainly develop platform is Mac OS Catalina, my server is running CentOS, and 
 ![](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)
-
 ![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=ffffff)
 ![](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=ffffff)
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)
-
 ![](https://img.shields.io/badge/-Strapi-2F2E8B?style=flat-square&logo=Strapi&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=ffffff)
 ![](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=WordPress&logoColor=ffffff)
-![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)
-![](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=ffffff)
-
-### DevOps
-
 ![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
@@ -99,4 +84,12 @@ My mainly develop platform is Mac OS Catalina, my server is running CentOS, and 
 
 ### Github Activities
 
-<img src="https://github-readme-stats.vercel.app/api?username=laijingwei&count_private=true&show_icons=true&icon_color=222&title_color=0366d6&text_color=586069&bg_color=fff&hide=issues&hide_border=true&include_all_commits=true" />
+<a href="https://github.com/laijingwei">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laijingwei&show_icons=true&theme=dracula&count_private=true" alt="laijingwei's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laijingwei&theme=dracula&layout=compact" alt="laijingwei's github top languages" />
+</a>
+
+---
+
+[![Github](https://img.shields.io/github/followers/laijingwei?label=Follow&style=social)](https://github.com/laijingwei)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=laijingwei" alt="visitor badge"/> 
